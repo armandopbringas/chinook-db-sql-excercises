@@ -1,0 +1,29 @@
+-- Bloque 5 — Agregaciones básicas
+--
+-- 18. Total de clientes
+--
+-- Cuenta cuántos clientes existen usando COUNT(*).
+--
+-- ⸻
+--
+-- 19. Precio máximo y mínimo de pistas
+--
+-- Obtén el precio máximo (UnitPrice) y el precio mínimo de la tabla Track.
+--
+-- ⸻
+--
+-- 20. Ventas totales
+--
+-- Suma todos los montos de facturas (Invoice.Total).
+--
+-- ⸻
+--
+-- 21. Duración promedio
+--
+-- Calcula la duración promedio de todas las pistas (Milliseconds).
+--
+-- ⸻
+--
+-- 22. Promedio redondeado
+--
+-- Calcula el precio promedio de las pistas (UnitPrice) redondeado a dos decimales.

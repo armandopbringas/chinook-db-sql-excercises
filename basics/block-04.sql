@@ -1,0 +1,23 @@
+-- Bloque 4 — DISTINCT + LIMIT
+--
+-- 14. Países únicos
+--
+-- Muestra todos los países únicos donde hay clientes (Customer.Country).
+--
+-- ⸻
+--
+-- 15. Primeras 5 pistas
+--
+-- Devuelve las primeras cinco pistas de la tabla Track.
+--
+-- ⸻
+--
+-- 16. Paginación
+--
+-- Devuelve las pistas entre las posiciones 11 y 20 usando LIMIT y OFFSET.
+--
+-- ⸻
+--
+-- 17. Géneros únicos ordenados
+--
+-- Muestra los valores únicos de Genre.Name, ordenados alfabéticamente.
